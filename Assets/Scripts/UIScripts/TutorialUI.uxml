@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UIScripts/CommonUIDesigns.uss?fileID=7433441132597879392&amp;guid=fff89af4747eafe44b892dbff36cc282&amp;type=3#CommonUIDesigns" />
+    <ui:VisualElement name="Root" style="bottom: auto; width: auto; height: 256px; top: 60%; color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0); align-items: center; justify-content: flex-end;">
+        <ui:Label text="USE WASD/ARROW KEY TO MOVE" display-tooltip-when-elided="true" name="Tutorial-text" class="CommonUIDesigns" style="white-space: normal; -unity-text-align: middle-center; max-width: 60%; max-height: 30%; border-left-width: 5px; border-right-width: 5px; border-top-width: 5px; border-bottom-width: 5px; border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; height: 30%; font-size: 25%; -unity-font: none; background-image: none;" />
+    </ui:VisualElement>
+</ui:UXML>
