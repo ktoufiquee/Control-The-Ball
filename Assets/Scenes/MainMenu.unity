@@ -302,7 +302,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelMenu: {fileID: 1377842547}
   scoreMenu: {fileID: 1704197249}
-  isWebCompile: 1
+  isWebCompile: 0
 --- !u!1 &667799842
 GameObject:
   m_ObjectHideFlags: 0
