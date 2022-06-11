@@ -255,7 +255,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   toFollow: {fileID: 1642900793}
-  offset: {x: 0, y: -12, z: 0}
+  offset: {x: 0, y: -20, z: 0}
 --- !u!1001 &399323588
 PrefabInstance:
   m_ObjectHideFlags: 0
